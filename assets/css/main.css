@@ -1,0 +1,137 @@
+body{
+	margin: 0;
+	background:#0079bf;
+	
+
+}
+.menu {
+	margin: 0;
+	background: #386d8c;
+
+
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	display: inline-block;
+}
+.first{
+	text-decoration: none;
+	font-size: 15px;
+	font-family: 'Encode Sans Expanded';
+	font-weight: 800;
+	color: white;
+	margin-left: 5px;
+	margin-top: 0;
+	margin-bottom: 10px;
+	padding: 5px;
+	border:1px solid #559BC4;
+	background: #559BC4;
+	border-radius: 3px;
+	display: inline-block;
+
+
+
+}
+a{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 1px;
+	color: white;
+	margin-top: 0;
+	margin-left: 7px;
+	padding: 7px;
+	border:1px solid #559BC4;
+	background: #559BC4;
+	border-radius: 3px;
+
+
+}
+.second{
+  margin-left: 500px;
+}
+
+
+#search{
+	padding: 7px;
+	background: #559BC4;
+	border:1px solid #559BC4;
+	border-radius: 3px;
+}
+::placeholder { 
+	color: white;
+
+}
+
+.ima1 {
+	width: 100px;
+	margin-left: 300px;
+	padding-top: 10px;
+	
+}
+.ima2{
+	width: 50px;
+	height: 40px;
+	padding-top: 10px;
+	
+}
+
+#change{
+	margin-top: 20px;
+	margin-left: 30px;
+	padding: 2px;
+	font-size: 15px;
+	font-family: 'Encode Sans Expanded';
+	font-weight: 800;
+	border-radius: 3px;
+	background: #49B465;
+
+}
+.but, .but1, .but2{
+	margin-left: 50px;
+	padding: 2px;
+	font-size: 15px;
+	font-family: 'Encode Sans Expanded';
+	font-weight: 800;
+	border-radius: 3px;
+	background: #0C71AB;
+	
+}
+.form{
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 10px;
+	font-family: 'Encode Sans Expanded';
+	border-radius: 3px;
+	background: #0D45C4;
+}
+.input{
+	margin:10px;
+
+}
+
+.cont1{
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 10px;
+	font-family: 'Encode Sans Expanded';
+	border-radius: 3px;
+	background: #0D45C4;
+}
+.ti{
+	text-align: center;
+	font-family: 'Encode Sans Expanded';
+}
+.list{
+	margin-left: 15px;
+}
+.text{
+	margin-left: 15px;
+}
+
+
+
+
